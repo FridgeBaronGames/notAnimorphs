@@ -66,6 +66,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\UI\UIscr.cs" />
+    <Compile Include="Assets\gameManager.cs" />
     <Compile Include="Assets\gameObjects\Blocks\Scripts\activateToggle.cs" />
     <Compile Include="Assets\gameObjects\Blocks\Scripts\fallBlock.cs" />
     <Compile Include="Assets\gameObjects\Blocks\Scripts\iceBlock.cs" />

@@ -17,7 +17,8 @@ public class player : MonoBehaviour {
     [SerializeField]
     public float gravity = 20f,
                  gravityAccel = 1.02f,
-                 jumpCuttoff = .3f;
+                 jumpCuttoff = .3f,
+                 killLine = -15f;
 
     bool jump;
     bool tryFlip;
@@ -27,6 +28,8 @@ public class player : MonoBehaviour {
     bool isSliding;
     bool isSwimming;
     bool waterJump;
+
+    //Morph Forms
 
     GameObject Slime;
     GameObject RockMonster;
@@ -42,35 +45,46 @@ public class player : MonoBehaviour {
     Morph formNum,
           newForm;
 
-    float fallCount;
-    float jumpCount;
 
-    bool zAxis;
     //Salmon Stuff
     bool rightFacing = true;
     
     //bool moving;
-
     Vector3 velocity;
     Vector3 moveInput;
     [SerializeField]
     Vector3 moveSpeed;
 
+    float fallCount;
+    float jumpCount;
+
+    bool zAxis;
 
     //Block Links
     Vector3 teleLoc;
     activateToggle toggleLink;
 
+    //Self Links
     CharacterController myCharacter;
     Animator anim;
     ParticleSystem morphEmmiter;
 
-    
+
+    //Playthrough vars
+
+    Vector3 checkPoint;
+    int life;
+    gameManager manager;
+
+    //Game Code
     void Awake()
     {
         myCharacter = GetComponent<CharacterController>();
         anim = GetComponent<Animator>();
         morphEmmiter = GetComponent<ParticleSystem>();
+
+        manager = FindObjectOfType<gameManager>();
+        newCheckPoint(transform.position);
 
 
         Slime = transform.Find("Slime").gameObject;
@@ -256,6 +270,8 @@ public class player : MonoBehaviour {
             tryFlip = false;
         }
 
+        if (transform.position.y <= killLine)
+            manager.iDied();
         
     }
     void BasicMove()
@@ -611,7 +627,7 @@ public class player : MonoBehaviour {
             canFlip = true;
         }
         if (other.tag.Contains("'Spike'"))
-            Debug.Log("You got Spiked");
+            manager.iDied();
         if (other.tag.Contains("'Ice'"))
             isSliding = true;
         if (other.tag.Contains("'Fall'"))
@@ -689,6 +705,19 @@ public class player : MonoBehaviour {
                 break;
         }
     }
+
+
+    //Playthrough stuff
+    public void newCheckPoint(Vector3 newPoint)
+    {
+        manager.newCheckPoint(newPoint);
+    }
+
+    public void moveTo(Vector3 newPos)
+    {
+        transform.position = newPos;
+    }
+
 }
 
 

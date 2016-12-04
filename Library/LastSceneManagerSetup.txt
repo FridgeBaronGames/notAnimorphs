@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/GoblinsAndMagic/Scenes/Creatures.unity
+- path: Assets/Austin.unity
   isLoaded: 1
   isActive: 1
