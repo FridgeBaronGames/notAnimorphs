@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GoblinsAndMagic/Scenes/Creatures.unity
+  isLoaded: 1
+  isActive: 1

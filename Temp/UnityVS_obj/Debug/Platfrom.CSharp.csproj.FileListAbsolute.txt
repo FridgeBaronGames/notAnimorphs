@@ -1,0 +1,15 @@
+D:\Drop Box\Dropbox\Unity\Platfrom\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Drop Box\Dropbox\Unity\Platfrom\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Drop Box\Dropbox\Unity\Platfrom\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Drop Box\Dropbox\Unity\Platfrom\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+D:\Drop Box\Dropbox\Unity\Platfrom\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Drop Box\Dropbox\Unity\Platfrom\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+D:\Drop Box\Dropbox\Unity\Platfrom\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Drop Box\Dropbox\Unity\Platfrom\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Drop Box\Dropbox\Unity\Platfrom\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Drop Box\Dropbox\Unity\Platfrom\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+D:\Drop Box\Dropbox\Unity\Platfrom\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+D:\Drop Box\Dropbox\Unity\Platfrom\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Drop Box\Dropbox\Unity\Platfrom\Temp\UnityVS_obj\Debug\Platfrom.CSharp.csprojResolveAssemblyReference.cache
+D:\Drop Box\Dropbox\Unity\Platfrom\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+D:\Drop Box\Dropbox\Unity\Platfrom\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb

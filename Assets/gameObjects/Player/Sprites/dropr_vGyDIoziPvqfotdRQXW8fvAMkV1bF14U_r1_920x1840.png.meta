@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: a558ee5d966e446409c579c4a290edb9
+timeCreated: 1480792995
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_0
+    21300002: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_1
+    21300004: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_2
+    21300006: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_3
+    21300008: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_4
+    21300010: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_5
+    21300012: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_6
+    21300014: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_7
+    21300016: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_8
+    21300018: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_9
+    21300020: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_10
+    21300022: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_11
+    21300024: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_12
+    21300026: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_13
+    21300028: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_14
+    21300030: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_15
+    21300032: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_16
+    21300034: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_17
+    21300036: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_18
+    21300038: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_19
+    21300040: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_20
+    21300042: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 818
+        width: 113
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 818
+        width: 113
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 818
+        width: 113
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 815
+        width: 113
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_4
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 802
+        width: 112
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 630
+        width: 113
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 635
+        width: 113
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_7
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 635
+        width: 113
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_8
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 635
+        width: 113
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 615
+        width: 112
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 405
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 450
+        width: 113
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 450
+        width: 113
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_13
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 450
+        width: 113
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 447
+        width: 113
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 251
+        width: 112
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_16
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 263
+        width: 113
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 267
+        width: 113
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 267
+        width: 113
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 267
+        width: 113
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 112
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 37
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

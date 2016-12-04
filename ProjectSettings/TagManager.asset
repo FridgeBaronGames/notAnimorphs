@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bound
+  - Jump
+  - Door
+  - '''Door'' ''Back'''
+  - '''Door'' ''Front'''
+  - '''Spike'''
+  - '''Ice'''
+  - '''Fall'''
+  - '''Tele'''
+  - '''Switch'''
+  - '''Water'''
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Weapons
+  - Creatures
+  - Environment
+  - Throwing
+  - Bounds
+  - Crush
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Back Wall
+    uniqueID: 949786259
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Morph Particles
+    uniqueID: 2219887657
+    locked: 0

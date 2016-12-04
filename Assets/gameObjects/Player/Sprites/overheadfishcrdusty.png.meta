@@ -1,0 +1,1332 @@
+fileFormatVersion: 2
+guid: 72bb85b14ffd81f4f8c9042a50cd1908
+timeCreated: 1480793116
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: overheadfishcrdusty_0
+    21300002: overheadfishcrdusty_1
+    21300004: overheadfishcrdusty_2
+    21300006: overheadfishcrdusty_3
+    21300008: overheadfishcrdusty_4
+    21300010: overheadfishcrdusty_5
+    21300012: overheadfishcrdusty_6
+    21300014: overheadfishcrdusty_7
+    21300016: overheadfishcrdusty_8
+    21300018: overheadfishcrdusty_9
+    21300020: overheadfishcrdusty_10
+    21300022: overheadfishcrdusty_11
+    21300024: overheadfishcrdusty_12
+    21300026: overheadfishcrdusty_13
+    21300028: overheadfishcrdusty_14
+    21300030: overheadfishcrdusty_15
+    21300032: overheadfishcrdusty_16
+    21300034: overheadfishcrdusty_17
+    21300036: overheadfishcrdusty_18
+    21300038: overheadfishcrdusty_19
+    21300040: overheadfishcrdusty_20
+    21300042: overheadfishcrdusty_21
+    21300044: overheadfishcrdusty_22
+    21300046: overheadfishcrdusty_23
+    21300048: overheadfishcrdusty_24
+    21300050: overheadfishcrdusty_25
+    21300052: overheadfishcrdusty_26
+    21300054: overheadfishcrdusty_27
+    21300056: overheadfishcrdusty_28
+    21300058: overheadfishcrdusty_29
+    21300060: overheadfishcrdusty_30
+    21300062: overheadfishcrdusty_31
+    21300064: overheadfishcrdusty_32
+    21300066: overheadfishcrdusty_33
+    21300068: overheadfishcrdusty_34
+    21300070: overheadfishcrdusty_35
+    21300072: overheadfishcrdusty_36
+    21300074: overheadfishcrdusty_37
+    21300076: overheadfishcrdusty_38
+    21300078: overheadfishcrdusty_39
+    21300080: overheadfishcrdusty_40
+    21300082: overheadfishcrdusty_41
+    21300084: overheadfishcrdusty_42
+    21300086: overheadfishcrdusty_43
+    21300088: overheadfishcrdusty_44
+    21300090: overheadfishcrdusty_45
+    21300092: overheadfishcrdusty_46
+    21300094: overheadfishcrdusty_47
+    21300096: overheadfishcrdusty_48
+    21300098: overheadfishcrdusty_49
+    21300100: overheadfishcrdusty_50
+    21300102: overheadfishcrdusty_51
+    21300104: overheadfishcrdusty_52
+    21300106: overheadfishcrdusty_53
+    21300108: overheadfishcrdusty_54
+    21300110: overheadfishcrdusty_55
+    21300112: overheadfishcrdusty_56
+    21300114: overheadfishcrdusty_57
+    21300116: overheadfishcrdusty_58
+    21300118: overheadfishcrdusty_59
+    21300120: overheadfishcrdusty_60
+    21300122: overheadfishcrdusty_61
+    21300124: overheadfishcrdusty_62
+    21300126: overheadfishcrdusty_63
+    21300128: overheadfishcrdusty_64
+    21300130: overheadfishcrdusty_65
+    21300132: overheadfishcrdusty_66
+    21300134: overheadfishcrdusty_67
+    21300136: overheadfishcrdusty_68
+    21300138: overheadfishcrdusty_69
+    21300140: overheadfishcrdusty_70
+    21300142: overheadfishcrdusty_71
+    21300144: overheadfishcrdusty_72
+    21300146: overheadfishcrdusty_73
+    21300148: overheadfishcrdusty_74
+    21300150: overheadfishcrdusty_75
+    21300152: overheadfishcrdusty_76
+    21300154: overheadfishcrdusty_77
+    21300156: overheadfishcrdusty_78
+    21300158: overheadfishcrdusty_79
+    21300160: overheadfishcrdusty_80
+    21300162: overheadfishcrdusty_81
+    21300164: overheadfishcrdusty_82
+    21300166: overheadfishcrdusty_83
+    21300168: overheadfishcrdusty_84
+    21300170: overheadfishcrdusty_85
+    21300172: overheadfishcrdusty_86
+    21300174: overheadfishcrdusty_87
+    21300176: overheadfishcrdusty_88
+    21300178: overheadfishcrdusty_89
+    21300180: overheadfishcrdusty_90
+    21300182: overheadfishcrdusty_91
+    21300184: overheadfishcrdusty_92
+    21300186: overheadfishcrdusty_93
+    21300188: overheadfishcrdusty_94
+    21300190: overheadfishcrdusty_95
+    21300192: overheadfishcrdusty_96
+    21300194: overheadfishcrdusty_97
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: overheadfishcrdusty_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 235
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 230
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 236
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 235
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 235
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 233
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 233
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 234
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 233
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_10
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 233
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 203
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 203
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 198
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 204
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 203
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 203
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 201
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 201
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_19
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 202
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_20
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 201
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_21
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 201
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 166
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 171
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 171
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 172
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 171
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 171
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 169
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 169
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 169
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_31
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 169
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_32
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 170
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 134
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 139
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 139
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 140
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_37
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 139
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 139
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 137
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_40
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 137
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_41
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 137
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_42
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 137
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_43
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 138
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_45
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 100
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_46
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 100
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_47
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 100
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 100
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 100
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 100
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_51
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 100
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_52
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 100
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 100
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_54
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 100
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_55
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 95
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_56
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 100
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_57
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 100
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_58
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 100
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_59
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 100
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_60
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 100
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_61
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 95
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_62
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 100
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_63
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 100
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_64
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 100
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_66
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 66
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_67
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 66
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 66
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_69
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 66
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_70
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 66
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_71
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 63
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_72
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 66
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_73
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 66
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_74
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 66
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_75
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 66
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_76
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 63
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_77
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 66
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_78
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 66
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_79
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_80
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 66
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_81
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 66
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_82
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 63
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_83
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 66
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_84
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 63
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_85
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 66
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_86
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 66
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_87
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 66
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_88
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 66
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_89
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 66
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_90
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 66
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_91
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 66
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_92
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 66
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_93
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 66
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_94
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 66
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_95
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 66
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_96
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 66
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: overheadfishcrdusty_97
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 66
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
